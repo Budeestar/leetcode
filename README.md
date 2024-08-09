@@ -1,0 +1,1 @@
+# leetcode code for each
